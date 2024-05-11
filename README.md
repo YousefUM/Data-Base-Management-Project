@@ -1,2 +1,2 @@
-# CSC623_FinalProject
+# FinalProject
 Supermaid Design and Development
